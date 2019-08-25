@@ -1,0 +1,17 @@
+{
+	"name": "backend",
+	"version": "0.0.1",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"start": "nodemon app.js"
+	},
+	"author": "amendez",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"jszip": "^3.2.2",
+		"mkdirp": "^0.5.1",
+		"moment": "^2.24.0"
+	}
+}
